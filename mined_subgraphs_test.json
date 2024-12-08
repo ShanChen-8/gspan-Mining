@@ -1,0 +1,9 @@
+{
+    "((7, 8, 1, ('Mike', '0-strategy_name-4-buscode3', 'John')),)": 3,
+    "((8, 9, 2, ('John', '0-strategy_name-4-buscode3', 'Jobs')),)": 3,
+    "((9, 7, 3, ('Jobs', '0-strategy_name-4-buscode3', 'Mike')),)": 3,
+    "((7, 8, 1, ('Mike', '0-strategy_name-4-buscode3', 'John')), (8, 9, 2, ('John', '0-strategy_name-4-buscode3', 'Jobs')))": 3,
+    "((8, 9, 2, ('John', '0-strategy_name-4-buscode3', 'Jobs')), (9, 7, 3, ('Jobs', '0-strategy_name-4-buscode3', 'Mike')))": 3,
+    "((9, 7, 3, ('Jobs', '0-strategy_name-4-buscode3', 'Mike')), (7, 8, 1, ('Mike', '0-strategy_name-4-buscode3', 'John')))": 3,
+    "((9, 7, 3, ('Jobs', '0-strategy_name-4-buscode3', 'Mike')), (7, 8, 1, ('Mike', '0-strategy_name-4-buscode3', 'John')), (8, 9, 2, ('John', '0-strategy_name-4-buscode3', 'Jobs')))": 3
+}
